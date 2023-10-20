@@ -35,7 +35,7 @@ required
 </Form.Group>
 
 <Form.Group>
-<FormLabel>details </FormLabel>
+<FormLabel>   details </FormLabel>
 <Form.Control
 as='textarea'
 name='details'

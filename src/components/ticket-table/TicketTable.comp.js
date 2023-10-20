@@ -60,5 +60,5 @@ if (error) return <h3>{error}</h3>
 </tbody>
 
  </Table>
-  )
-}
+  )}
+
